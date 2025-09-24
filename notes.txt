@@ -1,1 +1,3 @@
-Release notes for version 2.8.5
+Build notes:
+- Optimized performance
+- Updated dependencies
